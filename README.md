@@ -1,8 +1,14 @@
-## Hi there 👋
+## Привет, всем! Я Александр промпт-инженер
+---
+Разрабатываю **AI-ботов**, автоматизации.
+Основное внимание - Telegram, OpenAI.
+
+**Stack:** Python, OpenAI API
+**Tools:** OpenAI API, LLM-промптинг
 
 <!--
 **cordlessL/cordlessL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

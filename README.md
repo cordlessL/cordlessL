@@ -8,12 +8,15 @@
 
 <!-- Статистика: общая -->
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cordlessL&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Metrics](https://metrics.lecoq.io/cordlessL?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe/Moscow)
 
 <!-- Топ языков -->
 ![Топ языков](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cordlessL&layout=compact&theme=radical&langs_count=6)
+![Metrics](https://metrics.lecoq.io/cordlessL?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe/Moscow)
 
 <!-- Дополнительно: активность за год -->
 ![График активности](https://github-readme-activity-graph.vercel.app/graph?username=cordlessL&theme=react-dark&hide_border=true&area=true)
+![Trophies](https://metrics.lecoq.io/cordlessL?achievements=1&achievements.threshold=B&achievements.secrets=true&config.timezone=Europe/Moscow)
 
 <!--
 **cordlessL/cordlessL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

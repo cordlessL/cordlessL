@@ -7,10 +7,10 @@
 **Tools:** OpenAI API, LLM-промптинг
 
 <!-- Статистика: общая -->
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=cordlessL&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cordlessL&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 <!-- Топ языков -->
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=cordlessL&layout=compact&theme=radical&langs_count=6)
+![Топ языков](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cordlessL&layout=compact&theme=radical&langs_count=6)
 
 <!-- Дополнительно: активность за год -->
 ![График активности](https://github-readme-activity-graph.vercel.app/graph?username=cordlessL&theme=react-dark&hide_border=true&area=true)
